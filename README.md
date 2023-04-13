@@ -42,7 +42,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="400"/>
 </div>
 
 
