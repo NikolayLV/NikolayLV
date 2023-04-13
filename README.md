@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200"/>
+  ![image](https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif)
 </div>
 
 <h1 align="center">
