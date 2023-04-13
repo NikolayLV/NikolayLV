@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdou.ua%2Flenta%2Farticles%2Fwho-is-server-developer%2F&psig=AOvVaw1VuTBKMdcJMqjao8rCurv-&ust=1681482718435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD83rOJp_4CFQAAAAAdAAAAABAD" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, but my goal - to be a FullStack.
