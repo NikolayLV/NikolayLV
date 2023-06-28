@@ -10,7 +10,7 @@
 
 I am a FrontEnd Developer from Ukraine, but my goal - to be a FullStack.
 
-- :telescope: I’m not working now, but i do a lot to improve my skills.
+- :telescope: I’m QA Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
