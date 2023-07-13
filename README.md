@@ -3,10 +3,9 @@
 </div>
 
 
-<h1 align="center">
+<h2 align="center">
   Welcome to the los pollos hermanos family!
   My name is Nikolay, but you can calll me Kolya :)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 I am a FrontEnd Developer from Ukraine, but my goal - to be a FullStack.
