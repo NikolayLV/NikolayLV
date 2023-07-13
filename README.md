@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  Welcome to the los pollos hermanos family!
+  Welcome to the los pollos hermanos family! <br/>
   My name is Nikolay, but you can calll me Kolya :)
 </h1>
 
