@@ -37,7 +37,7 @@ I am a FrontEnd Developer from Ukraine, but my goal - to be a FullStack.
 
 ### :fire: My Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayLV&layout=compact)
-(https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
