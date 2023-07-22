@@ -6,10 +6,10 @@
 
 <h2 align="center">
   Welcome to the los pollos hermanos family! <br/>
-  My name is Nikolay, but you can calll me Kolya :)
+  My name is Nikolay, but you can calll me Nicki.
 </h1>
 
-I am a FrontEnd Developer from Ukraine, but my goal - to be a FullStack.
+Just try to live this life.
 
 - :telescope: I’m QA Engineer.
 
