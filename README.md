@@ -41,7 +41,7 @@ Just try to live this life.
 ---
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayLV&layout=compact)
+![Top Langs]
 
 
 ---
