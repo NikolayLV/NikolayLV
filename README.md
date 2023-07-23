@@ -11,7 +11,7 @@
 
 Just try to live this life.
 
-- :telescope: I’m QA Engineer.
+- :telescope: I’m QA Engineer, improve my skills.
 
 - :seedling: Exploring Technical Content Writing.
 
