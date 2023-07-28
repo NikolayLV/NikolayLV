@@ -9,7 +9,7 @@
   My name is Nikolay, but you can calll me Nicki.
 </h1>
 
-Just try to live this life.
+<h3>Just try to live this life.</h3>
 
 - :telescope: I’m QA Engineer, improve my skills.
 
