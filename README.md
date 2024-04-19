@@ -1,21 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="200"/>
-</div>
-
-
-
-<h2 align="center">
-  Welcome to the los pollos hermanos family! <br/>
-  My name is Nikolay, but you can calll me Nicki.
-</h1>
-
 <h3>Just try to live this life.</h3>
 
 - :telescope: I’m QA Engineer, improve my skills.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I make up a websites, play basketball and learn something new.
+- :zap: In my free time I play basketball.
 
 - :mailbox: How to reach me: E-Mail - Nikolayd2002@gmail.com
 
