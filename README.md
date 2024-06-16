@@ -1,6 +1,6 @@
 <h3>Just try to live this life.</h3>
 
-- :telescope: I’m QA Engineer, improve my skills.
+- :telescope: I’m Web Developer, improve my skills.
 
 - :seedling: Exploring Technical Content Writing.
 
